@@ -1,0 +1,10 @@
+REST API
+
+URI - Uniform Resource Identifier
+https://facebook.com/posts/1
+
+GET     /posts      (Get all the posts)
+POST    /posts      (Add post)
+GET     /posts/id   (Get a single post)
+PUT     /posts/id   (Update a post)
+DELETE  /posts/id   (Delete a post)
